@@ -1,0 +1,18 @@
+# Visual Studio default ignores
+.vs/
+[Oo]bj/
+[Bb]in/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Entity Framework & SQL
+*.mdf
+*.ldf
+*.opensdf
+
+packages/
+*.nupkg
+
+Thumbs.db
